@@ -56,4 +56,14 @@ Actual time needed to complete: 1:35
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
+Lab: 05a - Extend Your Portfolio:
 
+Number and name of feature: _#1 Add functionality_______________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
